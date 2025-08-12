@@ -29,5 +29,3 @@ A chatbot designed for the coal mining industry is a specialized artificial inte
    - To accommodate a diverse workforce, the chatbot may offer multilingual support to cater to the language preferences of different users.
 13. User Feedback and Improvement:
    - The chatbot can collect user feedback to continuously improve its responses and knowledge base, ensuring it remains a valuable resource for the coal mining industry.
-
-A chatbot designed for the coal mining industry not only serves as a valuable source of information and support but can also contribute to enhancing safety, productivity, and sustainability within the mining sector. It leverages AI and natural language processing to provide timely and accurate responses to user queries and concerns.
